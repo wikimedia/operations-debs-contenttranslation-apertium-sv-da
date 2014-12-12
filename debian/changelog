@@ -1,0 +1,12 @@
+apertium-sv-da (0.5.1+svn~57989-1) trusty; urgency=low
+
+  [ Kartik Mistry ]
+  * Rebuilt for Trusty.
+  * Updated debian/compat to 9.
+
+  [ Tino Didriksen ]
+  * Initial release
+  * Significant changes in svn since tarball, so mixing new build scripts with
+    old data files
+
+ -- Kartik Mistry <kartik@debian.org>  Fri, 12 Dec 2014 14:17:06 +0530
